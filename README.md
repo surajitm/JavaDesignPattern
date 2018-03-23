@@ -2,7 +2,8 @@
 
   * SOLID Design Pattern
   * Singleton Pattern
-  * Factory Pattern
+  * Factory method Pattern
+  * Abstract Factory Pattern
   * Builder Pattern
   * Facade Pattern
   * Adapter Pattern
