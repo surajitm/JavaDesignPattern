@@ -1,4 +1,4 @@
-package my.java.pattern.Factory;
+package my.pattern.Factory;
 
 
 
