@@ -9,14 +9,13 @@
   * [Scalability using microservices](https://www.youtube.com/watch?v=Zed6udTPGro)
   * [Scalability of system](https://www.youtube.com/watch?v=DhKpqGDXRCk)
 
+# Interview preparation:
+  * [interviewbit](https://www.interviewbit.com/courses/system-design/)
+
 
 * What is a distributed System?
 * How to scale a big Java project?
 * What are technique you will use to scale System Except vartical Scalling?
-
-
-
-
 
 # Java Design Pattern
 
